@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1682088537768" clover="3.2.0">
+  <project timestamp="1682088537768" name="All files">
+    <metrics statements="23" coveredstatements="23" conditionals="13" coveredconditionals="11" methods="7" coveredmethods="7" elements="43" coveredelements="41" complexity="0" loc="23" ncloc="23" packages="8" files="10" classes="10"/>
+    <package name=".jest.mocks">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="LoginForm.mock.js" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/.jest/mocks/LoginForm.mock.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/src/components/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.components.CustomButton">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.jsx" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/src/components/CustomButton/index.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="85" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CustomInput">
+      <metrics statements="5" coveredstatements="5" conditionals="11" coveredconditionals="9" methods="2" coveredmethods="2"/>
+      <file name="index.jsx" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/src/components/CustomInput/index.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="11" coveredconditionals="9" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="170" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="19" count="170" type="stmt"/>
+        <line num="20" count="170" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Login">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="LoginForm.jsx" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/src/pages/Login/LoginForm.jsx">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="17" count="92" type="stmt"/>
+        <line num="23" count="92" type="stmt"/>
+        <line num="24" count="92" type="stmt"/>
+        <line num="26" count="92" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="33" count="92" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Login.components">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/src/pages/Login/components/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.pages.Login.schemas">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/src/pages/Login/schemas/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="login-form.schema.js" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/src/pages/Login/schemas/login-form.schema.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Login.services">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="call-endpoint.js" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/src/pages/Login/services/call-endpoint.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="index.js" path="/home/luisfergm/Escritorio/aDESPLEGARenGIT/Testing/4-testing-jest-testing_library/4-testing-jest-testing_library/src/pages/Login/services/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
