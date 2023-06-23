@@ -65,4 +65,4 @@
 <br>
 <p align="center"><img src="assets/desktop/pantalla-actions-deskt-8.png" ></p>
 
-## Observación: Aún está en desarrollo.
+## Puedes verla en: https://virtualorder.vercel.app/example-store
