@@ -6,5 +6,5 @@
 2. Hacer los cambiuos respectivos en las variables de entorno.
 
 ## Puedes ver el proyecto desplegado aqui:
- ##### [Calendar APP](https://mern-calendar-frontend-black.vercel.app/auth/login) 
+ ##### [Calendar APP](https://mern-calendar-frontend-black.vercel.app/#/auth/login) 
   
